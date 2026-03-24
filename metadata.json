@@ -1,0 +1,5 @@
+{
+  "name": "Academic Performance & KPI Dashboard",
+  "description": "Enterprise-grade dashboard for tracking academic performance and lecturer KPIs with dynamic weighting and risk detection.",
+  "requestFramePermissions": []
+}
